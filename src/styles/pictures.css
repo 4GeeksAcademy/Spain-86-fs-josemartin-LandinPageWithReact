@@ -1,0 +1,42 @@
+.pagePictures{
+    display: flex;
+}
+
+.pagePicturesFirst{
+    height: 50rem;
+    width: 29rem;
+    font-size: 3rem;
+    background-image: url("https://i.pinimg.com/736x/23/01/1d/23011de398229279c07ada14ad78552e.jpg");
+}
+
+.pagePicturesText{
+    height: 50rem;
+    width: 30rem;
+    justify-items: center;
+    padding-top: 15rem;
+    background-image: url("https://static01.nyt.com/images/2023/06/29/multimedia/24HUNTER-BOOTS-02-ktpm/24HUNTER-BOOTS-02-ktpm-articleLarge.jpg?quality=75&auto=webp&disable=upscale");
+}
+
+.pagePicturesTextOne{
+    -webkit-text-fill-color: white;
+    font-size: 3rem;
+}
+
+.pagePicturesTextTwo{
+    -webkit-text-fill-color: white;
+    font-size: 1.5rem;
+}
+
+.pagePicturesTextButton{
+    -webkit-text-fill-color: black;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.pagePicturesThird{
+    height: 50rem;
+    width: 25rem;
+    background-image: url("https://www.allsole.com/images?url=https://blogscdn.thehut.net/app/uploads/sites/6/2021/03/hunter-boots_1643198733.png&auto=avif&width=640&height=800&fit=crop");
+}
